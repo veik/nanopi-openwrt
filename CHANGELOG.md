@@ -2,6 +2,10 @@
 # 更新日志
 ###### （如果没有特别说明，更新内容就是上游Lean和Lienol两位大佬的代码更新）
 
+## 2021-09-26
+
+- 增加机型：[NanoPi R5S](https://wiki.friendlyelec.com/wiki/index.php/NanoPi_R5S/zh) 的支持，暂不支持autoupdate
+
 ## 2021-08-19
 
 - 增加机型：NanoPi R2C 的支持（由@thomaswcy提供支持）
@@ -40,7 +44,7 @@
 
 - R2S加入了 https://github.com/NateLol/luci-app-oled 支持oled状态显示
 
-![oled](https://github.com/klever1988/nanopi-openwrt/raw/master/assets/oled.jpg)
+![oled](https://github.com/stupidloud/nanopi-openwrt/raw/master/assets/oled.jpg)
 
 ## 2020-08-04
 
@@ -88,7 +92,7 @@
 
 - 今天暂停更新其他版本，只更新minimal版。内核打入Openwrt官方的鸡血补丁，NAT性能有了炸天的表现。
 
-![boom](https://raw.githubusercontent.com/klever1988/nanopi-openwrt/master/assets/boom.jpg)
+![boom](https://raw.githubusercontent.com/stupidloud/nanopi-openwrt/master/assets/boom.jpg)
 
 ## 2020-03-01
 
